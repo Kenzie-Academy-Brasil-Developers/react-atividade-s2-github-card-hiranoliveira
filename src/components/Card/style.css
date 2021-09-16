@@ -1,0 +1,21 @@
+img {
+  margin-top: 30px;
+  height: 50%;
+  width: 50%;
+  max-height: 350px;
+  max-width: 300px;
+  border-radius: 10%;
+  background-size: cover;
+}
+
+h3,
+h4 {
+  margin: 20px 40px;
+}
+
+.genCard {
+  background-color: black;
+  margin: 15px;
+  border-radius: 5%;
+  border: 10px dotted purple;
+}

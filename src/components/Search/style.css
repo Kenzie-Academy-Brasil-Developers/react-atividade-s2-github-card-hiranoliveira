@@ -1,0 +1,17 @@
+button {
+  cursor: pointer;
+  height: 30px;
+  width: 100px;
+  background-color: #fff;
+  border-radius: 10%;
+}
+
+button:hover {
+  background-color: black;
+  color: #fff;
+}
+
+input {
+  height: 30px;
+  width: 100%;
+}
